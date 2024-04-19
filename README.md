@@ -10,9 +10,9 @@ https://github.com/Alebuenoaz/LSTM-and-GRU-Time-Series-Forecasting/tree/main.
 The original code from the paper was adapted and modified to enhance the model architectures, incorporate advanced techniques such as dropout layers for regularization, and improve data preprocessing methods using the StandardScaler. These modifications aimed to achieve better predictive performance and model robustness compared to the original implementation.
 
 ## Contents
-code_1_original_rnn.py: Contains the original implementation of the RNN model as described in the paper.
+RNN_multi.ipynb: Contains the original implementation of the RNN model as described in the paper.
 
-code_2_improved_rnn.py: Contains the improved implementation of the RNN model with modifications and enhancements.
+RNN_multi_Improved.ipynb: Contains the improved implementation of the RNN model with modifications and enhancements.
 
 BANKEX.csv: Sample dataset used for testing and evaluation.
 
