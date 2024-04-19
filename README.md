@@ -34,26 +34,39 @@ Run RNN_multi_Improved.ipynb for the improved RNN implementation.
 
 The results of the experiments conducted using the improved RNN model showcase significant improvements in predictive accuracy and model performance compared to the original RNN model. The README file provides a detailed discussion of the results, including statistical tests and comparisons.
 
-## Original RNN Results :
+### Original RNN Results :
+
 Mean values:
+
 LSTM and Baseline (RMSE): 51.0
+
 GRU and Baseline (RMSE): 55.0
+
 LSTM and GRU (RMSE): 46.0
+
 LSTM and Baseline (DA): 54.5
+
 GRU and Baseline (DA): 51.0
+
 LSTM and GRU (DA): 49.5
+
 Final LSTM MSE Loss: 0.00016071223944891244
+
 Final GRU MSE Loss: 0.00018687710689846426
 
-## Improved RNN Results :
+### Improved RNN Results :
+
 Ensemble Model (DA): 0.0
+
 Mean values (RMSE) across 10 samples:
+
 Original Mean RMSE: 5.59795917e+05
+
 Improved Mean RMSE: 1.00000000e+00
 
 For a detailed understanding of the methodology, experimental setup, and results, refer to the original paper and the code files in this repository.
 
-Future Directions
+## Future Directions
 
 Future extensions and improvements to the codebase may include:
 
