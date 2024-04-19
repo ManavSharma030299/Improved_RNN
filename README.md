@@ -2,8 +2,9 @@
 # LSTM and GRU Time Series Forecasting(MLP PROJECT SUBMISSION)
 
 ## Overview
-This repository contains an implementation of LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) networks for time series forecasting. The code is based on the method described in the white paper titled "Forecasting with Deep Learning" by Gissel Velarde, published in The Data Digest, Volume 2, Issue 8, 2022, by Vodafone. The original paper can be accessed here https://arxiv.org/pdf/2302.12027v1.pdf and  - https://github.com/Alebuenoaz/LSTM-and-GRU-Time-Series-Forecasting/tree/main.
+This repository contains an implementation of LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) networks for time series forecasting. The code is based on the method described in the white paper titled "Forecasting with Deep Learning" by Gissel Velarde, published in The Data Digest, Volume 2, Issue 8, 2022, by Vodafone. The original paper can be accessed here https://arxiv.org/pdf/2302.12027v1.pdf and  - 
 The implementation and experiments described in the paper are open-source and available in this repository.
+https://github.com/Alebuenoaz/LSTM-and-GRU-Time-Series-Forecasting/tree/main.
 
 ## Changes Made
 The original code from the paper was adapted and modified to enhance the model architectures, incorporate advanced techniques such as dropout layers for regularization, and improve data preprocessing methods using the StandardScaler. These modifications aimed to achieve better predictive performance and model robustness compared to the original implementation.
