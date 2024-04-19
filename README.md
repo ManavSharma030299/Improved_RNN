@@ -77,4 +77,3 @@ Exploration of hybrid models combining RNNs with other deep learning architectur
 Incorporation of external factors or domain knowledge to enrich model understanding and accuracy.
 
 
-Note: The white paper referenced in this README can be accessed here, and the original GitHub repository for the code can be found here.
