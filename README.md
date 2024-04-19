@@ -9,11 +9,17 @@ The original code from the paper was adapted and modified to enhance the model a
 
 ## Contents
 code_1_original_rnn.py: Contains the original implementation of the RNN model as described in the paper.
+
 code_2_improved_rnn.py: Contains the improved implementation of the RNN model with modifications and enhancements.
+
 BANKEX.csv: Sample dataset used for testing and evaluation.
+
 activities.csv: Another sample dataset used in the original paper for experimentation.
+
 README.md: This README file providing an overview of the repository.
+
 ## Instructions
+
 To run the code and replicate the experiments:
 
 Install the required dependencies mentioned in requirements.txt.
@@ -29,10 +35,13 @@ The results of the experiments conducted using the improved RNN model showcase s
 For a detailed understanding of the methodology, experimental setup, and results, refer to the original paper and the code files in this repository.
 
 Future Directions
+
 Future extensions and improvements to the codebase may include:
 
 Integration of attention mechanisms for enhanced model focus.
+
 Exploration of hybrid models combining RNNs with other deep learning architectures.
+
 Incorporation of external factors or domain knowledge to enrich model understanding and accuracy.
 
 
